@@ -33,6 +33,8 @@ No More [findViewById](https://medium.com/google-developers/no-more-findviewbyid
 
 Android Data Binding: That <include>  [Thing](https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.z7120k905)
 
+Android Data Binding: [Animations](https://medium.com/google-developers/android-data-binding-animations-55f6b5956a64#.kf27d3p45)
+
 ### Android Support Library
 Support Library for Transitions. Overview and comparison with  [Transitions-Everywhere](https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c#.xk6uutm3r)
 
