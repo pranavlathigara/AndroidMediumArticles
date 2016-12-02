@@ -7,6 +7,7 @@ Android Application [Architecture](https://labs.ribot.co.uk/android-application-
 
 Android Basic Project Architecture [for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.q9fhusjcz)
 
+
 ### Dependency Injection
 Understanding [Dagger 2](https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f#.wnc6537az)
 
@@ -15,6 +16,14 @@ Dagger 2  [Dependency Injection for Android Developers](https://medium.com/@meth
 Dagger 2 on production — [reducing methods count](https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30#.6tmpjgkwk)
 
 Dagger 2, RxJava and RetroFit 2 — [Efficient Networking with Injection](https://medium.com/@kumarashwini/dagger-2-rxjava-and-retrofit-2-efficient-networking-with-injection-dba607f76d3c#.2oefcj2t1)
+
+
+### Data Binding
+Android Data Binding: [The Big Event](https://medium.com/google-developers/android-data-binding-the-big-event-2697089dd0d7#.pta6rl25a)
+
+No More [findViewById](https://medium.com/google-developers/no-more-findviewbyid-457457644885#.mrufctooo)
+
+Android Data Binding: That <include>  [Thing](https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.z7120k905)
 
 
 ### Retrofit
