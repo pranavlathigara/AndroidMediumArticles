@@ -1,13 +1,21 @@
 # Medium.com - Android Articles
 
+### Android Architecture
+Android [Architecture](https://android.jlelse.eu/android-architecture-2f12e1c7d4db#.zdu9quu47)
+
+Android Application [Architecture](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.888da6bfo)
+
+Android Basic Project Architecture [for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.q9fhusjcz)
+
 ### Dependency Injection
+Understanding [Dagger 2](https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f#.wnc6537az)
+
 Dagger 2  [Dependency Injection for Android Developers](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6#.9h2pczi4y)
 
 Dagger 2 on production — [reducing methods count](https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30#.6tmpjgkwk)
 
 Dagger 2, RxJava and RetroFit 2 — [Efficient Networking with Injection](https://medium.com/@kumarashwini/dagger-2-rxjava-and-retrofit-2-efficient-networking-with-injection-dba607f76d3c#.2oefcj2t1)
 
-Understanding [Dagger 2](https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f#.wnc6537az)
 
 ### Retrofit
 Simple way to Consuming APIs  [with Retrofit](https://medium.com/mobiwise-blog/simple-way-to-consuming-apis-with-retrofit-e8af23eeebc1#.jcctl0wnj)
