@@ -7,6 +7,8 @@ Android N: Introducing Picture-in-Picture [for Android TV](https://medium.com/ex
 
 Android N Notifications: [A Design Analysis](https://raveesh.in/android-n-notifications-a-design-analysis-cec09f1cc5bf#.gfccwfym8)
 
+What’s New in Android Nougat from a [Developer’s Point of View](https://blog.aritraroy.in/whats-new-in-android-nougat-from-a-developer-s-point-of-view-ed41b77d6458#.52r0qkgpb)
+
 
 ### Android Architecture
 Android [Architecture](https://android.jlelse.eu/android-architecture-2f12e1c7d4db#.zdu9quu47)
