@@ -25,6 +25,13 @@ No More [findViewById](https://medium.com/google-developers/no-more-findviewbyid
 
 Android Data Binding: That <include>  [Thing](https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.z7120k905)
 
+### Android Support Library
+Support Library for Transitions. Overview and comparison with  [Transitions-Everywhere](https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c#.xk6uutm3r)
+
+Exploring the Android Design Support Library: [Bottom Navigation View](https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.i4qm4yq7l)
+
+Exploring the new Android  [Design Support Library](https://labs.ribot.co.uk/exploring-the-new-android-design-support-library-b7cda56d2c32#.az1b4h6tl)
+
 
 ### Retrofit
 Simple way to Consuming APIs  [with Retrofit](https://medium.com/mobiwise-blog/simple-way-to-consuming-apis-with-retrofit-e8af23eeebc1#.jcctl0wnj)
