@@ -1,5 +1,13 @@
 # Medium.com - Android Articles
 
+### Android Nougat
+Android N: Introducing upgraded [Notifications](https://medium.com/exploring-android/android-n-introducing-upgraded-notifications-d4dd98a7ca92#.d26sncbtl)
+
+Android N: Introducing Picture-in-Picture [for Android TV](https://medium.com/exploring-android/android-n-introducing-picture-in-picture-for-android-tv-35f2392fb609#.tpcuhgyzb)
+
+Android N Notifications: [A Design Analysis](https://raveesh.in/android-n-notifications-a-design-analysis-cec09f1cc5bf#.gfccwfym8)
+
+
 ### Android Architecture
 Android [Architecture](https://android.jlelse.eu/android-architecture-2f12e1c7d4db#.zdu9quu47)
 
